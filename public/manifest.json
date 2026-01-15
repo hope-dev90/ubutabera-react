@@ -1,0 +1,16 @@
+{
+  "name": "UBUTABERAhub",
+  "short_name": "UBUTABERA",
+  "description": "AI-Powered Legal Access for Rwanda",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8f9fa",
+  "theme_color": "#1e3a5f",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ]
+}
